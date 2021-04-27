@@ -28,5 +28,6 @@ public class OnDemenage {
 			}
 			nbdanscamion = 0;
 		}
+		clavier.close();
 	}
 }
